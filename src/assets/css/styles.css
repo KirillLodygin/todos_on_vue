@@ -339,6 +339,10 @@ textarea::placeholder {
   color: white;
 }
 
+#name {
+  padding: 5px;
+}
+
 @media (min-width: 640px) {
   .form-wrap,
   .todo-list-wrapp,
