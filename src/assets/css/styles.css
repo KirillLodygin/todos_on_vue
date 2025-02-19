@@ -196,6 +196,7 @@ textarea::placeholder {
   gap: 1.25rem;
   color: #fff;
   line-height: 1.25;
+  text-align: left;
 }
 
 .text-red-700 {
